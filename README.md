@@ -5,17 +5,19 @@ Projeto implementado durante curso Alura posto como desafio. Aplicação para co
 - A consulta aos valores dos veículos pelo site tem o seguinte fluxo:
 - Primeiramente é necessário escolher o tipo do veículo: carro, moto ou caminhão.
 
-1
+![1](https://github.com/user-attachments/assets/02964a0e-ee78-417c-b05a-379a851b43a2)
 
 
 - Depois disso, é necessário preencher a MARCA, MODELO e ANO para consulta.
 
-2
+![2](https://github.com/user-attachments/assets/866e043b-a373-4954-8579-ebfebd0f7e40)
+
 
 
 - Por fim, é exibida a avaliação apenas daquele ano escolhido.
 
-3
+![3](https://github.com/user-attachments/assets/5cc1b186-7af4-4894-8241-7212020fdaf9)
+
 
 
 
@@ -30,7 +32,8 @@ Projeto implementado durante curso Alura posto como desafio. Aplicação para co
 - Lista apenas os modelos que tiverem a palavra **PALIO** no nome.
 - Usuário escolherá um modelo específico pelo código e, diferente do site, já listaremos as avaliações para **TODOS** os anos disponíveis daquele modelo, retornando uma lista de forma similar à imagem abaixo:
 
-4
+![4](https://github.com/user-attachments/assets/85fbb8b2-0cc6-4c9a-b13a-48c4109403e9)
+
 
 
 
@@ -58,4 +61,5 @@ https://parallelum.com.br/fipe/api/v1/carros/marcas/21/modelos/560/anos
 
 https://parallelum.com.br/fipe/api/v1/carros/marcas/21/modelos/560/anos/2003-1
 
-5
+![4](https://github.com/user-attachments/assets/9bdbd303-0fa4-4f25-a377-5372171ba160)
+
